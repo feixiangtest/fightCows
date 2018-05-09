@@ -49,7 +49,12 @@
               </li>
             </ul>
             <div class="dgTitle">
-
+                <div class="dgTitleBg">
+                  <img src="../../assets/img/createTit.png" alt="">
+                </div>
+              
+            </div>
+            <div class="endPoints">
               
             </div>
 
