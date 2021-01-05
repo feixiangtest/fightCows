@@ -15,7 +15,7 @@
     "vue"
   ],
   "dependencies": {
-    "axios": "0.16.0",
+    "axios": "0.21.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
     "babel-plugin-component": "^0.9.1",
